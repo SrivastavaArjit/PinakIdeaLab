@@ -37,9 +37,9 @@ span {
 }
 #upper::after {
 	content: "";
-	width: 15%;
+	width: 20%;
 	height: 20%;
-	background: conic-gradient(at 50% 100%, #fdd11e 61deg, transparent 50deg 299deg, #fdd11e 299deg);
+	background: conic-gradient(at 50% 100%, #fdd11e 67.4deg, transparent 67.4deg 292.6deg, #fdd11e 292.6deg);
 	position: absolute;
 	bottom: -10%;
 }
